@@ -1,0 +1,84 @@
+.
+├── checkpoints
+│   ├── DenseNet
+│   └── ResNet
+├── extracted
+├── final
+├── logs
+├── meta-data
+├── MODEL
+│   ├── DenseNet
+│   └── ResNet
+├── predict_data
+│   └── predict
+├── preview
+├── __pycache__
+├── RESULTS
+│   ├── DenseNet
+│   └── ResNet
+├── SUB
+├── test_data
+│   ├── antelope
+│   ├── bat
+│   ├── beaver
+│   ├── bobcat
+│   ├── buffalo
+│   ├── chihuahua
+│   ├── chimpanzee
+│   ├── collie
+│   ├── dalmatian
+│   ├── german+shepherd
+│   ├── grizzly+bear
+│   ├── hippopotamus
+│   ├── horse
+│   ├── killer+whale
+│   ├── mole
+│   ├── moose
+│   ├── mouse
+│   ├── otter
+│   ├── ox
+│   ├── persian+cat
+│   ├── raccoon
+│   ├── rat
+│   ├── rhinoceros
+│   ├── seal
+│   ├── siamese+cat
+│   ├── spider+monkey
+│   ├── squirrel
+│   ├── walrus
+│   ├── weasel
+│   └── wolf
+├── train
+└── train_data
+    ├── antelope
+    ├── bat
+    ├── beaver
+    ├── bobcat
+    ├── buffalo
+    ├── chihuahua
+    ├── chimpanzee
+    ├── collie
+    ├── dalmatian
+    ├── german+shepherd
+    ├── grizzly+bear
+    ├── hippopotamus
+    ├── horse
+    ├── killer+whale
+    ├── mole
+    ├── moose
+    ├── mouse
+    ├── otter
+    ├── ox
+    ├── persian+cat
+    ├── raccoon
+    ├── rat
+    ├── rhinoceros
+    ├── seal
+    ├── siamese+cat
+    ├── spider+monkey
+    ├── squirrel
+    ├── walrus
+    ├── weasel
+    └── wolf
+
+81 directories
